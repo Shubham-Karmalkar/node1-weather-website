@@ -5,10 +5,10 @@ This is a website with both frontend as well as backend. This project gives us c
 
 ## Screenshots
 
-<kbd>![App Screenshot](https://github.com/Shubham-Karmalkar/First-html-css_Mini_Project/blob/main/first-mini-project/Images/Screenshot%20(748).png)</kbd>  
+<kbd>![App Screenshot](https://github.com/Shubham-Karmalkar/node1-weather-website/blob/main/public/images/Screenshot%201.png)</kbd>  
   
   
-<kbd>![App Screenshot](https://github.com/Shubham-Karmalkar/First-html-css_Mini_Project/blob/main/first-mini-project/Images/Screenshot%20(747).png)</kbd>
+<kbd>![App Screenshot](https://github.com/Shubham-Karmalkar/node1-weather-website/blob/main/public/images/Screenshot%202.png)</kbd>
 
   
 ## Features
