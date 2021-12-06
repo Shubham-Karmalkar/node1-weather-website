@@ -18,7 +18,7 @@ app.set("views", newViewPath);
 hbs.registerPartials(partialPath);
 // setting static directory for server
 app.use(express.static(publicDirectory));
-
+console.log("hi there");
 app.get("", (req, res) => {
   res.render("index", {
     title: "Weather",
