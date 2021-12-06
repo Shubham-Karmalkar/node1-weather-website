@@ -24,7 +24,7 @@ To deploy this project run
 
 ```bash
   You can dowload this and can deploy on any server. 
-  I have already deployed it on Netlify link is provided below in
+  I have already deployed it on Heroku link is provided below in
   Demo
 ```
 
