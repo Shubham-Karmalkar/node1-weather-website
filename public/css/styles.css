@@ -1,0 +1,48 @@
+body {
+  position: absolute;
+  left: 30%;
+  top: 15%;
+  max-width: 650px;
+  text-align: center;
+}
+
+a {
+  text-decoration: none;
+  font-size: 15px;
+  padding: 10px;
+  font-weight: 800;
+  color: gray;
+}
+hr {
+  /* color: rgb(233, 233, 233); */
+  background-color: rgb(189, 186, 186);
+  border: none;
+  height: 1px;
+}
+.result1 {
+  color: red;
+  font-weight: 600;
+}
+span {
+  color: greenyellow;
+}
+.result2 {
+  font-weight: 600;
+  color: gray;
+}
+footer {
+  /* height: 100%; */
+  position: fixed;
+  bottom: 50px;
+  color: gray;
+}
+
+h1 {
+  color: greenyellow;
+}
+button {
+  padding: 3px;
+  color: white;
+  background-color: gray;
+  border: none;
+}
